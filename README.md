@@ -1,5 +1,5 @@
 # Gold Price Prediction 
-
+![Workflow](image.png)
 This project aims to build a machine learning model to predict future gold prices based on historical data. The workflow involves several steps:
 
 1. **Data Collection**: Obtain historical gold price data from reliable sources.
@@ -22,3 +22,4 @@ This project aims to build a machine learning model to predict future gold price
 
 10. **Monitoring and Updates**: Continuously monitor the model's performance and update it with new data as it becomes available to maintain its relevance and accuracy over time.
 
+![Model](image2.png)
